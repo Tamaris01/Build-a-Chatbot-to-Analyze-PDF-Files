@@ -17,13 +17,12 @@ This project is a mentee assignment from the IBM Advance AI @ Infinite Learning 
 - Python
 - HTML
 - CSS
-- LangChain
-- CognitiveClass.ai LL.M Technology
+- JavaScript
+- Dockerfile
 
 ## 🚀 Project Overview
 
 The goal of this project is to create a chatbot that can analyze PDF files using LangChain's LL.M technology. The chatbot will be able to extract text from PDF files, perform various analyses on the text, and provide insights or summaries based on the document content.
 
-- Natural language understanding for answering questions related to the document content.
 
 
