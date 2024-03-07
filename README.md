@@ -6,7 +6,7 @@ This project is a mentee assignment from the IBM Advance AI @ Infinite Learning 
 
 - **Author**: Sina Nazeri
 - **Translator to Indonesia**: Arifian Saputra
-- 
+  
 ## 🚀 Mentee Info
 
 - **Name**: Tamaris Roulina Silitonga
